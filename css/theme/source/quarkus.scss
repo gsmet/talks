@@ -3,6 +3,8 @@
 @import "../template/settings";
 @import "../template/diagram/settings";
 
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Lobster&display=swap');
+
 // Corporate colors
 // https://www.redhat.com/en/about/brand/standards/color
 // Using presentation palette 1
@@ -36,7 +38,7 @@ $headingColor: $white;
 $headingTextShadow: none;
 $headingLetterSpacing: normal;
 $headingTextTransform: none;
-$headingFontWeight: 600;
+$headingFontWeight: normal;
 
 $heading1Size: 1.5em;
 $heading2Size: 1.4em;
