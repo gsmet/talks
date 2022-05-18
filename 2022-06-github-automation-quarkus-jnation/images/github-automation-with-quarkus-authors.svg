@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="github-automation-with-quarkus-authors.svg"
+   inkscape:export-filename="/home/gsmet/Documents/github-automation-with-quarkus.png"
+   inkscape:export-xdpi="56.68"
+   inkscape:export-ydpi="56.68"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.72135417"
+     inkscape:cx="743.04693"
+     inkscape:cy="542.0361"
+     inkscape:window-width="2440"
+     inkscape:window-height="1333"
+     inkscape:window-x="26"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="647.89603"
+       y="493.13982"
+       width="46.084"
+       height="79.788"
+       id="rect23839" />
+    <style
+       id="style27325">.cls-1{fill:#091313;}.cls-2{fill:#4695eb;}.cls-3{fill:#ff004a;}</style>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       id="text23837"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect23839)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="406.50543"
+       y="967.10468"
+       id="text2283"><tspan
+         sodipodi:role="line"
+         id="tspan2281"
+         x="406.50543"
+         y="967.10468"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.6667px;font-family:Lobster;-inkscape-font-specification:'Lobster, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff004a;fill-opacity:1">You already figured it out: we are French!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:120px;line-height:1.25;font-family:'Amatic SC';-inkscape-font-specification:'Amatic SC, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="218.83212"
+       y="364.68411"
+       id="text18004"><tspan
+         sodipodi:role="line"
+         id="tspan18002"
+         x="218.83212"
+         y="364.68411">Yoann Rodière</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.6667px;line-height:1.25;font-family:'Amatic SC';-inkscape-font-specification:'Amatic SC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none"
+       x="303.47113"
+       y="467.49097"
+       id="text29320"><tspan
+         sodipodi:role="line"
+         id="tspan33462"
+         x="303.47113"
+         y="467.49097">Hibernate Search</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.6667px;line-height:1.25;font-family:'Amatic SC';-inkscape-font-specification:'Amatic SC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none"
+       x="374.9476"
+       y="554.89734"
+       id="text29320-7"
+       inkscape:transform-center-x="-91.375451"
+       inkscape:transform-center-y="-45.50361"><tspan
+         sodipodi:role="line"
+         id="tspan33462-1"
+         x="374.9476"
+         y="554.89734">Quarkus</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4695eb;fill-opacity:1;stroke:none"
+       x="244.14259"
+       y="673.64618"
+       id="text43831"><tspan
+         sodipodi:role="line"
+         id="tspan43829"
+         x="244.14259"
+         y="673.64618">yoann@hibernate.org</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:120px;line-height:1.25;font-family:'Amatic SC';-inkscape-font-specification:'Amatic SC, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1063.9487"
+       y="368.39774"
+       id="text18004-2"><tspan
+         sodipodi:role="line"
+         id="tspan18002-6"
+         x="1063.9487"
+         y="368.39774">Guillaume Smet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.6667px;line-height:1.25;font-family:'Amatic SC';-inkscape-font-specification:'Amatic SC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none"
+       x="1270.7971"
+       y="468.27496"
+       id="text29320-1"><tspan
+         sodipodi:role="line"
+         id="tspan33462-0"
+         x="1270.7971"
+         y="468.27496">Quarkus</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.6667px;line-height:1.25;font-family:'Amatic SC';-inkscape-font-specification:'Amatic SC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none"
+       x="1169.6707"
+       y="558.15607"
+       id="text29320-7-6"
+       inkscape:transform-center-x="-91.375451"
+       inkscape:transform-center-y="-45.50361"><tspan
+         sodipodi:role="line"
+         id="tspan33462-1-1"
+         x="1169.6707"
+         y="558.15607">Hibernate Validator</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4695eb;fill-opacity:1;stroke:none"
+       x="1089.2593"
+       y="677.3598"
+       id="text43831-5"><tspan
+         sodipodi:role="line"
+         id="tspan43829-9"
+         x="1089.2593"
+         y="677.3598">guillaume@hibernate.org</tspan></text>
+  </g>
+</svg>
