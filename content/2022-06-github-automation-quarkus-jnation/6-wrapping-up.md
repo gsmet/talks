@@ -1,8 +1,8 @@
 ## Automation vs paper cuts
 
-* You don't always notice the context switches and small paper cuts of your day to day work
-* Automation can really help streamline your work
-* Quarkus GitHub App can help with that! With a very small time investment!
+* Small paper cuts add up
+* Automation streamlines your work
+* Quarkus GitHub App can help, quick and easy
 * Start small, put in production, and grow from there
 
 -
@@ -10,7 +10,7 @@
 ## That's what Quarkus is all about!
 
 * Quarkus is an amazing platform to develop extensions
-* Custom extensions can go a long way to bring developer joy and solve problems
+* Custom extensions are powerful and bring developer joy
 
 -
 

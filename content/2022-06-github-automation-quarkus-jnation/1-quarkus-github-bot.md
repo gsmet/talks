@@ -5,7 +5,7 @@
 ## Triaging
 
 * Constant flow of issues/pull requests
-* A lot of components with different maintainers
+* Many components with different maintainers
 * Need to ping appropriate people
 
 -
@@ -13,7 +13,6 @@
 ## Affecting milestones
 
 * ~ 200 issues / pull requests without milestone when releasing
-* So much fun affecting the milestone manually for each of them
 * Heterogeneous team makes it harder
 
 -
@@ -34,10 +33,8 @@ We need to solve this issue. Fast.
 ## Quarkus GitHub Bot
 
 * Started as a Probot bot
-* Once we had sufficient feedback...
-  * Started the Quarkus GitHub App extension
-  * Ported all the existing features... and more!
-* A loooot of features, including...
+* Switched to Quarkus
+* Went way beyond! For example...
 
 -
 
