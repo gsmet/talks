@@ -1,4 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Overpass:wght@400;700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Lobster&display=swap");
+.reveal code {
+  color: #4695EB;
+}
+
 /*********************************************
  * GLOBAL STYLES
  *********************************************/
@@ -6,11 +11,11 @@
   --r-background-color: #FFFFFF;
   --r-main-font: Overpass, Helvetica, sans-serif;
   --r-main-font-size: 32px;
-  --r-main-color: #FFFFFF;
+  --r-main-color: #000000;
   --r-block-margin: 20px;
   --r-heading-margin: 0 0 20px 0;
   --r-heading-font: Lobster, Overpass, Helvetica, sans-serif;
-  --r-heading-color: #FFFFFF;
+  --r-heading-color: #FF004A;
   --r-heading-line-height: 1.2;
   --r-heading-letter-spacing: normal;
   --r-heading-text-transform: none;
@@ -25,22 +30,13 @@
   --r-link-color: #4695EB;
   --r-link-color-dark: #166ece;
   --r-link-color-hover: #FF004A;
-  --r-selection-background-color: #5F0000;
+  --r-selection-background-color: #FF004A;
   --r-selection-color: #fff;
 }
 
 .reveal-viewport {
+  background: #FFFFFF;
   background-color: var(--r-background-color);
-}
-.reveal-viewport.focus {
-  --r-main-color: #000000;
-  --r-background-color: #FFFFFF;
-  --r-heading-color: #FF004A;
-  --r-link-color: #4695EB;
-  --r-link-color-hover: #FF004A;
-  --r-selection-color: #5F0000;
-  --r-selection-background-color: #F56D6D;
-  background-image: linear-gradient(-45deg, rgba(0, 0, 0, 0.075) 20%, rgba(0, 0, 0, 0.15) 20%, transparent 85%, rgba(0, 0, 0, 0.1) 85%);
 }
 
 .reveal {
@@ -359,21 +355,21 @@
   fill: transparent;
 }
 .viz .node > polyline {
-  stroke: #FFFFFF;
+  stroke: #000000;
 }
 .viz .node > ellipse, .viz .node > polygon, .viz .node > path {
   fill: #FFFFFF;
-  stroke: #FFFFFF;
+  stroke: #000000;
 }
 .viz .node > text {
   font-size: 0.5em;
 }
 .viz .edge > polyline, .viz .edge > path {
-  stroke: #FFFFFF;
+  stroke: #000000;
 }
 .viz .edge > ellipse, .viz .edge > polygon {
-  fill: #FFFFFF;
-  stroke: #FFFFFF;
+  fill: #000000;
+  stroke: #000000;
 }
 .viz .edge > text {
   font-size: 0.3em;
