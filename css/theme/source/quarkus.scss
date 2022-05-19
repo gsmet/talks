@@ -31,11 +31,11 @@ $black: #000000;
 // Main text
 $mainFont: Overpass, Helvetica, 'sans-serif';
 $mainFontSize: 32px;
-$mainColor: $white;
+$mainColor: $black;
 
 // Headings
 $headingFont: Lobster, Overpass, Helvetica, 'sans-serif';
-$headingColor: $white;
+$headingColor: $quarkus-pink;
 $headingTextShadow: none;
 $headingLetterSpacing: normal;
 $headingTextTransform: none;
@@ -66,19 +66,6 @@ $nodeFontSize: 0.5em;
 $edgeStrokeColor: $mainColor;
 $edgeFillColor: $mainColor;
 $edgeFontSize: 0.3em;
-
-@mixin bodyBackground() {
-  &.focus {
-    --r-main-color: #{$black};
-    --r-background-color: #{$white};
-    --r-heading-color: #{$quarkus-pink};
-    --r-link-color: #{$quarkus-light-blue};
-    --r-link-color-hover: #{$quarkus-pink};
-    --r-selection-color: #{$red-dark};
-    --r-selection-background-color: #{$red-light};
-    background-image: linear-gradient(-45deg, rgba(0, 0, 0, 0.075) 20%, rgba(0, 0, 0, 0.15) 20%, transparent 85%, rgba(0, 0, 0, 0.1) 85%);
-  }
-}
 
 // Themes
 
