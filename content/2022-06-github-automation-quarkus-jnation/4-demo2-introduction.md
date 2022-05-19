@@ -1,7 +1,7 @@
 ## Comment-based commands
 
 * `@bot do something` (please!)
-* Looks simple but not so much
+* Looks simple, but looks are deceiving
   * Parsing
   * Feedback
   * Customization
