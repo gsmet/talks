@@ -54,6 +54,11 @@ $linkColorHover: $quarkus-pink;
 $backgroundColor: $white;
 $selectionBackgroundColor: $red-dark;
 
+// Code
+.reveal code {
+  color: $quarkus-light-blue;
+}
+
 // Diagrams
 
 $graphTextFontFamily: Overpass, Helvetica, 'sans-serif';
