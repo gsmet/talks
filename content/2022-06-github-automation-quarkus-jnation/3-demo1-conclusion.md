@@ -1,9 +1,11 @@
 ## In short
 
 * Quarkus!
-  * All the Quarkus features: CDI, persistence, Kafka...
-  * Comes with developer joy included: live reload...
-* Nice feature set
-  * Full breadth of the Hub4j GitHub API at your fingertips
+  * Developer joy: live reload...
+  * CDI, persistence, Kafka...
+* GitHub!
+  * Extensive Hub4j GitHub API
+* More!
+  * Event annotations
   * Replay UI
   * Mockito-based test framework
