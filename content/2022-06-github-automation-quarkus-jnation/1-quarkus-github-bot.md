@@ -27,7 +27,7 @@
 
 ## In one word: scale
 
-* We need to solve this issue. Fast.
+We need to solve this issue. Fast.
 
 -
 
