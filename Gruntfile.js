@@ -73,9 +73,9 @@ module.exports = function(grunt) {
 				]
 			},
 			cname: {
-				files: {
-					'dist/CNAME': 'CNAME',
-				}
+				files: [
+					{ dest: 'dist/', src: 'CNAME' }
+				]
 			}
 		},
 
@@ -162,7 +162,7 @@ module.exports = function(grunt) {
 	grunt.loadNpmTasks( 'grunt-exec' );
 
 	// Default task
-	grunt.registerTask( 'default', [ 'clean', 'css', 'js', 'content' ] );
+	grunt.registerTask( 'default', [ 'clean', 'css', 'js', 'content', 'cname' ] );
 
 	// JS task
 	grunt.registerTask( 'js', [ 'jshint', 'copy:js' ] );
@@ -175,6 +175,8 @@ module.exports = function(grunt) {
 	grunt.registerTask( 'css-core', [ 'sass:core', 'copy:css', 'postcss' ] );
 	grunt.registerTask( 'css', [ 'sass', 'copy:css', 'postcss' ] );
 
+	// CNAME
+	grunt.registerTask( 'cname', [ 'copy:cname' ] );
 
 	// Serve presentation locally
 	grunt.registerTask( 'serve', [ 'default', 'connect', 'watch' ] );
