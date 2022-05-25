@@ -71,6 +71,11 @@ module.exports = function(grunt) {
 					{ expand: true, dest: 'dist/', cwd: 'content', src: '**' },
 					{ expand: true, dest: 'dist/', src: 'image/**' }
 				]
+			},
+			cname: {
+				files: {
+					'dist/CNAME': 'CNAME',
+				}
 			}
 		},
 
