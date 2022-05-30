@@ -5,12 +5,25 @@
 * Quarkus GitHub App can help, quick and easy
 * Start small, put in production, and grow from there
 
+@Notes:
+
+* [...]: with a large enough project, even small inconveniences can really slow you down
+* [...]: it's a chance to offload plenty of small (or not so small) tasks
+* With Quarkus, familiar environment and no boilerplate,
+  so you don't spend more time on automation than you would have manually.
+* Also means even a small GitHub app is worth it: you can start small [...]
+
 -
 
 ## That's what Quarkus is all about!
 
 * Quarkus is an amazing platform to develop extensions
 * Custom extensions are powerful and bring developer joy
+
+@Notes:
+
+* [...] Quarkus is all about: making your life easier
+* [...] develop extensions like this one
 
 -
 
