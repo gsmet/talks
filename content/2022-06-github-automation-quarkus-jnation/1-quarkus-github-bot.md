@@ -52,8 +52,6 @@ We need to solve this issue. Fast.
 
 ## Automated build report
 
-That's where switching to Java really paid off!
-
 ![](images/build-report.png)
 
 -
