@@ -4,7 +4,6 @@
 * Looks simple, but looks are deceiving
     * Parsing
     * Feedback
-    * Customization
 * Let's do it with annotations and zero boilerplate!
 
 -
