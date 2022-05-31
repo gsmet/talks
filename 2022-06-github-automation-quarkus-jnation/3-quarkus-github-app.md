@@ -25,8 +25,7 @@
 
 -
 
-<!-- .element data-background="images/github-automation-with-quarkus-demo-time.svg"
-    data-background-size="contain" -->
+<!-- .element data-background="images/github-automation-with-quarkus-demo-time.svg" data-background-size="contain" -->
 
 -
 
