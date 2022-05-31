@@ -8,8 +8,7 @@
 
 -
 
-<!-- .element data-background="images/github-automation-with-quarkus-demo-time-2.svg"
-    data-background-size="contain" -->
+<!-- .element data-background="images/github-automation-with-quarkus-demo-time-2.svg" data-background-size="contain" -->
 
 -
 
