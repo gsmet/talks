@@ -47,11 +47,15 @@ https://xkcd.com/1319/
 
 -
 
+<!-- .element data-visibility="uncounted" -->
+
 ## Architecture
 
 ![](images/architecture.png)
 
 -
+
+<!-- .element data-visibility="uncounted" -->
 
 ### License
 
