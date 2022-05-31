@@ -28,7 +28,7 @@
 
 We need to solve this issue. Fast.
 
--
+---
 
 ## Quarkus GitHub Bot
 
