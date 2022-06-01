@@ -25,6 +25,10 @@
 
 -
 
+<!-- .element data-background="images/tweet-close-osgi-tickets.png" data-background-size="auto" -->
+
+-
+
 <!-- .element data-background="images/github-automation-with-quarkus-demo-time.svg" data-background-size="contain" -->
 
 -
