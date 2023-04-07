@@ -24,3 +24,9 @@ The presentations can be published to the `gh-pages` branch with the following c
 $ grunt publish
 ```
 
+## SVG
+
+SVG sources are in the `sources` directory.
+Do not modify the compressed SVG files that are in the `content` directory.
+
+To embed the fonts in a SVG, use [Vecta nano](https://vecta.io/nano).
