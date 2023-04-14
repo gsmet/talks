@@ -24,9 +24,12 @@
 
 -
 
-## En un mot: mise à l'échelle
+## On doit aller vite
+
+Quarkus 3 = 1000+ pull requests et issues
 
 Nous devons résoudre ce problème.
+
 Plutôt hier qu'aujourd'hui.
 
 ---

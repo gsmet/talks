@@ -18,6 +18,6 @@
 
 * Bibliothèque Airline: pas de parsing manuel !
 * Permissions avec `@Permission(ADMIN)` ou `@Team("your-team")`
-* Scope: issues, pull requests ou les deux
+* Scope : issues, pull requests ou les deux
 * Génération d'aide
 * Et beaucoup d'autres options

@@ -2,7 +2,7 @@
 
 * Les petites tâches s'additionnent
 * L'automatisation fluidifie le travail
-* Quarkus GitHub App peut aider, rapidement et facilement
+* Quarkus GitHub App et Quarkus GitHub Action peuvent aider, rapidement et facilement
 * Commencez petit, poussez en production, et ajoutez des fonctionnalités après
 
 @Notes:
@@ -41,7 +41,7 @@ https://xkcd.com/1319/
 * Quarkus GitHub App - <https://github.com/quarkiverse/quarkus-github-app>
 * Documentation - <https://quarkiverse.github.io/quarkiverse-docs/quarkus-github-app/dev/>
 
-* Cette présentation - <https://talks.smet.org/2022-06-github-automation-quarkus-jnation/>
+* Cette présentation - <https://talks.smet.org/2023-04-automatisation-github-quarkus-lyon-jug/>
 * Démo - <https://github.com/gsmet-bot-playground/github-automation-with-quarkus-demo-app>
 * <a href="?print-pdf">Exporter les slides in PDF</a> <small>(nécessite Chrome)</small>
 
@@ -52,6 +52,20 @@ https://xkcd.com/1319/
 ## Architecture
 
 ![](images/architecture.png)
+
+-
+
+<!-- .element data-visibility="uncounted" -->
+
+## Quarkus 3
+
+* Jakarta EE 10
+* Eclipse MicroProfile 6
+* Hibernate ORM 6
+* Nouvelle Dev UI
+* Upgrade automatisé
+* Plugins pour le Quarkus CLI
+* Et tout un tas d'autres trucs...
 
 -
 

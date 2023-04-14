@@ -50,8 +50,15 @@
   * Hub4j GitHub API très complète
 * Et bien plus !
   * Annotations d'événements
+  * Configuration dans le repository
   * Replay UI
   * Framework de test basé sur Mockito
+
+-
+
+## Et c'est documenté
+
+https://quarkiverse.github.io/quarkiverse-docs/quarkus-github-app/dev/index.html
 
 @Notes:
 
