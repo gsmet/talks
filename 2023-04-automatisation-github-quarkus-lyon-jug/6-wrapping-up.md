@@ -15,10 +15,11 @@
 
 -
 
-## C'est vraiment le pourquoi de Quarkus !
+## Des extensions ?
 
-* Quarkus est une excellente plate-forme pour développer des extensions
-* Les extensions sur mesure facilitent la vie des développeurs
+* Très peu de code à maintenir
+* Tout est câblé durant le build avec du code généré par Gizmo
+* Quarkus extensions FTW!
 
 @Notes:
 
