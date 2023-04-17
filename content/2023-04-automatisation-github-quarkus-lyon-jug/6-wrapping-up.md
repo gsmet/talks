@@ -38,10 +38,10 @@ https://xkcd.com/1319/
 
 ## Ressources
 
-* Quarkus - <https://quarkus.io>
 * Quarkus GitHub App - <https://github.com/quarkiverse/quarkus-github-app>
-* Documentation - <https://quarkiverse.github.io/quarkiverse-docs/quarkus-github-app/dev/>
-
+  * Documentation - <https://quarkiverse.github.io/quarkiverse-docs/quarkus-github-app/dev/>
+* Quarkus GitHub Action - <https://github.com/quarkiverse/quarkus-github-action>
+  * Documentation - <https://quarkiverse.github.io/quarkiverse-docs/quarkus-github-action/dev/>
 * Cette présentation - <https://talks.smet.org/2023-04-automatisation-github-quarkus-lyon-jug/>
 * Démo - <https://github.com/gsmet-bot-playground/github-automation-with-quarkus-demo-app>
 * <a href="?print-pdf">Exporter les slides in PDF</a> <small>(nécessite Chrome)</small>

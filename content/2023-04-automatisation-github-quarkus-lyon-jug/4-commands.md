@@ -2,7 +2,7 @@
 
 * `@bot fais ça` (s'il te plaît !)
 * A l'air simple mais c'est trompeur
-    * Parsing
+    * Parsing et routage
     * Permissions
     * Retour utilisateur
     * ...
@@ -16,7 +16,7 @@
 
 ## En résumé
 
-* Bibliothèque Airline: pas de parsing manuel !
+* Bibliothèque Airline : pas de parsing manuel !
 * Permissions avec `@Permission(ADMIN)` ou `@Team("your-team")`
 * Scope : issues, pull requests ou les deux
 * Génération d'aide
