@@ -28,9 +28,9 @@
 
 Quarkus 3 = 1000+ pull requests et issues
 
-Nous devons résoudre ce problème.
+Nous devions résoudre ce problème.
 
-Plutôt hier qu'aujourd'hui.
+Rapidement.
 
 ---
 
