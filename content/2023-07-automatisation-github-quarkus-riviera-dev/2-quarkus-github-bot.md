@@ -26,7 +26,11 @@
 
 ## On doit aller vite
 
+![](images/github-activity-may-15-june-15.png)
+
 Quarkus 3 = 1000+ pull requests et issues
+
+@Notes:
 
 Nous devions résoudre ce problème.
 
@@ -34,7 +38,26 @@ Rapidement.
 
 ---
 
+<!-- .element: class="grid" -->
 ## Quarkus GitHub Bot
+
+<div class="column">
+
+![](images/probot.png)
+
+</div>
+<div class="column" style="font-size: 4em;">
+
+&rarr;
+
+</div>
+<div class="column">
+
+![](images/quarkus.svg)
+
+</div>
+
+@Notes:
 
 * A l'origine, un petit bot Probot
 * Migration vers Quarkus

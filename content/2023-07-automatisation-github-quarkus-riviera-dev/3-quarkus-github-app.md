@@ -14,14 +14,13 @@
 
 @Notes:
 
-* What we're going to present to you is called [...]
-* It's a Quarkus extension:
-  takes advantage of all the power of Quarkus to provide [...]
-* Gets all sorts of advantages from Quarkus, for ex. native
-* Not a prototype
-* GH enterprise if you need it
-* Most importantly: it's not a bot, it's a library.
-  So you can be creative, [...]
+* Notre bot est basé sur une extension Quarkus nommée  [...]
+* Tire parti de la puissance de Quarkus pour [...]
+* D'autres avantages, par ex. native
+* Pas un prototype
+* GH Enterprise si vous en avez besoin
+* Le plus important : ce n'est pas un bot, c'est une bibliothèque.
+  Donc soyez créatifs, [...]
 
 -
 
@@ -54,15 +53,20 @@
   * Replay UI
   * Framework de test basé sur Mockito
 
+@Notes:
+
+Vous avez:
+
+* Quarkus [...]
+* GitHub [...]
+* Et bien plus [...]
+
+Tout ça dans une simple bibliothèque !
+
+\[enchaînement avec Guillaume: "Et ce n'est pas tout !"]
+
 -
 
 ## Et c'est documenté
 
 https://quarkiverse.github.io/quarkiverse-docs/quarkus-github-app/dev/index.html
-
-@Notes:
-
-* You get Quarkus, with [...]
-* You get GitHub, with [...]
-* You get more than that, with [...]
-* You get all that! \[link with Guillaume: "And actually you get even more!"]
