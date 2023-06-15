@@ -2,3 +2,28 @@
 /dist/
 *.swp
 /.grunt/
+
+# IntelliJ specific files/directories
+/out
+.idea
+*.ipr
+*.iws
+*.iml
+atlassian-ide-plugin.xml
+
+# Eclipse specific files/directories
+.classpath
+.project
+.settings
+.externalToolBuilders
+.factorypath
+
+# NetBeans specific files/directories
+.nbattrs
+nb-configuration.xml
+licenseheader.txt
+nbactions.xml
+
+# Sublime
+*.sublime-*
+
