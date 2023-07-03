@@ -1,5 +1,9 @@
 ## Commandes basées sur des commentaires
 
+![](images/all-contributors-comment-based-comment.png)
+
+@Notes:
+
 * `@bot fais ça` (s'il te plaît !)
 * A l'air simple mais c'est trompeur
     * Parsing et routage
