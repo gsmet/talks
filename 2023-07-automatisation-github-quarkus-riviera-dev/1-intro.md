@@ -2,12 +2,11 @@
 
 @Notes:
 
-Bonjour le Lyon JUG,
+Bonjour Riviera DEV,
 
-Aujourd'hui, je vais vous raconter comment nous avons monté à l'échelle le développement du projet Quarkus and comment nous avons automatisé une grande partie du workflow GitHub avec une GitHub App et des GitHub Actions.
+Aujourd'hui, nous allons vous raconter comment nous avons monté à l'échelle le développement du projet Quarkus et comment nous avons automatisé une grande partie du workflow GitHub avec une GitHub App et des GitHub Actions.
 
-Je vais aussi vous montrer comment vous pouvez développer vos propres GitHub Apps et GitHub Actions avec Quarkus.
-Tant qu'à faire en s'amusant.
+Nous allons aussi vous montrer comment vous pouvez développer vos propres GitHub Apps et GitHub Actions avec Quarkus.
 
 -
 
@@ -15,4 +14,6 @@ Tant qu'à faire en s'amusant.
 
 @Notes:
 
-Je suis Guillaume Smet, je travaille chez Red Hat, majoritairement sur Quarkus et je suis aussi le project lead d'Hibernate Validator.
+Avec moi, aujourd'hui, Yoann Rodière, project lead d'Hibernate Search et contributeur Quarkus, avec qui nous avons conçu Quarkus GitHub App.
+
+Je suis Guillaume Smet, je travaille majoritairement sur Quarkus et je suis aussi le project lead d'Hibernate Validator.
