@@ -40,6 +40,12 @@
 
 -
 
+## Et c'est documenté
+
+https://quarkiverse.github.io/quarkiverse-docs/quarkus-github-app/dev/index.html
+
+-
+
 ## En résumé
 
 * Quarkus !
@@ -64,9 +70,3 @@ Vous avez:
 Tout ça dans une simple bibliothèque !
 
 \[enchaînement avec Guillaume: "Et ce n'est pas tout !"]
-
--
-
-## Et c'est documenté
-
-https://quarkiverse.github.io/quarkiverse-docs/quarkus-github-app/dev/index.html
