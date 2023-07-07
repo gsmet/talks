@@ -3,7 +3,7 @@
 * Le petit dernier
 * Tout pareil mais pour les GitHub Actions
 * Avec plein de petites choses pour faciliter le dév Java de GitHub Actions
-* Et [une doc](https://quarkiverse.github.io/quarkiverse-docs/quarkus-github-action/dev/index.html) !
+* Et une doc: https://docs.quarkiverse.io/quarkus-github-action/dev/ !
 
 -
 

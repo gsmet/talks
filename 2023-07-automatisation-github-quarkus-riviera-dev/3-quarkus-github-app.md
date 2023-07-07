@@ -42,7 +42,7 @@
 
 ## Et c'est documenté
 
-https://quarkiverse.github.io/quarkiverse-docs/quarkus-github-app/dev/index.html
+https://docs.quarkiverse.io/quarkus-github-app/dev/
 
 -
 
