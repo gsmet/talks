@@ -15,7 +15,7 @@ quarkus create app \
     org.acme:my-github-action:999-SNAPSHOT \
     --name="My Action" \
     --description="Description of my action" \
-    --data=github-action-codestart.github-repository=gsmet/my-github-action
+    --data=github-action-codestart.github-repository=org/my-github-action
 ```
 
 -
@@ -49,7 +49,7 @@ public class MyAction {
 
 ```yaml
 - name: Run action
-  uses: gsmet/my-github-action@main
+  uses: org/my-github-action@main
   with:
     github-token: ${{ secrets.GITHUB_TOKEN }}
 ```

@@ -7,7 +7,6 @@
 * Extension Quarkus
   * Développez des GitHub Apps en Java
   * Zéro code inutile
-  * Compilation native GraalVM
 * Stable - en production depuis 2 ans
 * Supporte aussi GitHub Enterprise
 * Soyez créatifs, créez votre propre bot !
@@ -51,12 +50,14 @@ https://docs.quarkiverse.io/quarkus-github-app/dev/
 * Quarkus !
   * Developer joy : live reload...
   * CDI, persistence, Kafka...
+  * Compilation native GraalVM
 * GitHub !
   * Hub4j GitHub API très complète
 * Et bien plus !
   * Annotations d'événements
   * Configuration dans le repository
   * Replay UI
+  * Client GraphQL
   * Framework de test basé sur Mockito
 
 @Notes:
