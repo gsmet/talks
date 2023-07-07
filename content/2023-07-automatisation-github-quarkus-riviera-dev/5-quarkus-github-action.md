@@ -27,8 +27,8 @@ public class MyAction {
 
     @Action
     void action(@Issue.Opened GHEventPayload.Issue issuePayload,
-            Commands commands) throws IOException {
-        issuePayload.getIssue().comment("Hello Riviera DEV");
+            Inputs inputs, Commands commands) throws IOException {
+        issuePayload.getIssue().comment("Hello " + inputs.getRequired("who"));
 
         commands.appendJobSummary("# Hello Riviera DEV\n\n:wave:");
     }
