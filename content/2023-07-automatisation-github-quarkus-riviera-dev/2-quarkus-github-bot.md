@@ -12,6 +12,7 @@
 
 ## Affecter les milestones
 
+* Release mineure mensuelle (micro toutes les semaines)
 * ~ 200 issues / pull requests sans milestone le jour de la release
 * Equipe hétérogène → process moins suivi
 
