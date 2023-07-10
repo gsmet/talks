@@ -51,5 +51,6 @@ public class MyAction {
 - name: Run action
   uses: org/my-github-action@main
   with:
+    who: Riviera DEV
     github-token: ${{ secrets.GITHUB_TOKEN }}
 ```
