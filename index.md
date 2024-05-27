@@ -4,3 +4,5 @@
 
 ## [2023-07-automatisation-github-quarkus-riviera-dev](2023-07-automatisation-github-quarkus-riviera-dev)
 
+## [2024-05-github-automation-quarkus-jcon-slovenia](2024-05-github-automation-quarkus-jcon-slovenia)
+
