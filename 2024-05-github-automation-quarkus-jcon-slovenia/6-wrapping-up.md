@@ -28,11 +28,21 @@
 
 -
 
+<!-- .element: class="grid" -->
 ## Thanks for listening!
+
+<div class="column">
 
 ![](https://imgs.xkcd.com/comics/automation.png)
 
 https://xkcd.com/1319/
+
+</div>
+<div class="column">
+
+![](images/jcon-link.png)
+
+</div>
 
 -
 
@@ -42,6 +52,7 @@ https://xkcd.com/1319/
   * Documentation - <https://quarkiverse.github.io/quarkiverse-docs/quarkus-github-app/dev/>
 * Quarkus GitHub Action - <https://github.com/quarkiverse/quarkus-github-action>
   * Documentation - <https://quarkiverse.github.io/quarkiverse-docs/quarkus-github-action/dev/>
+* Quarkus GitHub Bot - <https://github.com/quarkusio/quarkus-github-bot>
 
 -
 

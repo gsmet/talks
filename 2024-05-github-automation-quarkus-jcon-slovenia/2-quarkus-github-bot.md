@@ -29,7 +29,7 @@
 
 ![](images/github-activity-may-15-june-15.png)
 
-Quarkus 3 = 1000+ pull requests et issues
+Quarkus 3.0 = 1000+ pull requests et issues
 
 @Notes:
 
