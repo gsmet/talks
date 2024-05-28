@@ -3,7 +3,7 @@
 * Our newest addition
 * Same but for GitHub Actions
 * Tons of features to make the development of GitHub Actions  in Java easier
-* Documented: https://docs.quarkiverse.io/quarkus-github-action/dev/ !
+* Fully documented (again!): https://docs.quarkiverse.io/quarkus-github-action/dev/ !
 
 -
 
@@ -40,8 +40,8 @@ public class MyAction {
 
 ## Publish your action
 
-* Push the repository on GitHub
-* Published automatically
+* Push the repository to GitHub
+* Automagically published
 * That's all, folks!
 
 -
