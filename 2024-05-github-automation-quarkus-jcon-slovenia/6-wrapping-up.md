@@ -49,9 +49,9 @@ https://xkcd.com/1319/
 ## Resources
 
 * Quarkus GitHub App - <https://github.com/quarkiverse/quarkus-github-app>
-  * Documentation - <https://quarkiverse.github.io/quarkiverse-docs/quarkus-github-app/dev/>
+  * 📘 <https://quarkiverse.github.io/quarkiverse-docs/quarkus-github-app/dev/>
 * Quarkus GitHub Action - <https://github.com/quarkiverse/quarkus-github-action>
-  * Documentation - <https://quarkiverse.github.io/quarkiverse-docs/quarkus-github-action/dev/>
+  * 📘 <https://quarkiverse.github.io/quarkiverse-docs/quarkus-github-action/dev/>
 * Quarkus GitHub Bot - <https://github.com/quarkusio/quarkus-github-bot>
 
 -
