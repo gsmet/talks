@@ -8,7 +8,7 @@
   * Develop GitHub Apps in Java
   * Zero boilerplate
 * Stable - in production for 3 years
-* Used by Quarkus, Keycloak, WildFly...
+* Used by Quarkus, Hibernate, Keycloak, WildFly...
 * Supports GitHub Enterprise too
 * Be creative, create your own bot!
 
