@@ -28,6 +28,10 @@
 
 -
 
+## It's easy, just try it!
+
+-
+
 <!-- .element: class="grid" -->
 ## Thanks for listening!
 
