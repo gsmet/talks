@@ -91,3 +91,7 @@ We need to solve this issue. Fast.
 Develop how important it is for us today,
 how we miss it when it’s not there,
 how we are deploying it to other projects in the Quarkus ecosystem
+
+-
+
+## This bot is Open Source
