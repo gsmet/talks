@@ -25,7 +25,7 @@
 
 -
 
-## In one word: scale
+## In a word: scale
 
 ![](images/github-activity-may-15-june-15.png)
 
