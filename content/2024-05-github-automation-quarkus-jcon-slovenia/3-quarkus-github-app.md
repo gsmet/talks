@@ -52,14 +52,14 @@ https://docs.quarkiverse.io/quarkus-github-app/dev/
 * Quarkus!
   * Developer joy: live reload...
   * CDI, persistence, Kafka...
-  * Native compilation
+  * Native compilation & Containers
 * GitHub!
   * Extensive Hub4j GitHub API
+  * GraphQL client
 * More!
   * Event annotations
   * Configuration in the repository
   * Replay UI
-  * GraphQL client
   * Mockito-based test framework
 
 @Notes:
