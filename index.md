@@ -6,3 +6,5 @@
 
 ## [2024-05-github-automation-quarkus-jcon-slovenia](2024-05-github-automation-quarkus-jcon-slovenia)
 
+## [2024-10-crafting-intelligent-github-bots-devoxx.pdf](2024-10-crafting-intelligent-github-bots-devoxx.pdf)
+
