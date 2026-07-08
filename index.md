@@ -8,3 +8,7 @@
 
 ## [2024-10-crafting-intelligent-github-bots-devoxx.pdf](2024-10-crafting-intelligent-github-bots-devoxx.pdf)
 
+## [2026-07-hard-won-lessons-of-seven-years-of-developing-quarkus-rivieradev.pdf](2026-07-hard-won-lessons-of-seven-years-of-developing-quarkus-rivieradev.pdf)
+
+## [2026-07-quarkus-and-leyden-the-bumpy-road-ahead-rivieradev.pdf](2026-07-quarkus-and-leyden-the-bumpy-road-ahead-rivieradev.pdf)
+
